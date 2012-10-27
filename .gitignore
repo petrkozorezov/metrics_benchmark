@@ -1,0 +1,16 @@
+log
+logs
+ebin
+deps
+*~
+*.beam
+erl_crash.dump
+.eunit
+.idea
+doc_tmp
+plts
+eunit.coverage.xml
+.DS_Store
+default.config
+*.coverdata
+static_data.json
